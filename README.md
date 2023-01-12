@@ -20,8 +20,4 @@
 
 <h1 align="keft">Some Stats</h1>
 
-<div align="left">
 ![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thomasbgrd&show_icons=true&theme=radical)
-</div>
-<div>
-</div>
