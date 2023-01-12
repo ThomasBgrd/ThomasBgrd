@@ -3,9 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=thomasbgrd" alt="thomasbgrd" /></a> </p>
 
+- 🔭 I’m currently working at **RTEC Instruments**
+
 - 🌱 I’m currently learning **WPF .NET**
 
 - 📫 How to reach me **thomas.bougeard@tensaiit.com**
+
+- 📄 Know about my experiences [Developer FullStack .Net at Groupe OCI](Developer FullStack .Net at Groupe OCI)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
