@@ -1,23 +1,59 @@
-<h1 align="center">Hi 👋, I'm Thomas</h1>
-<h3 align="center">A passionate developer from France near Lyon</h3>
-
-- 🔭 I’m currently working at **RTEC Instruments**
-
-- 🌱 I’m currently learning **WPF .NET**
-
-- 📫 How to reach me **thomas.bougeard@tensaiit.com**
-
-- 📄 Know about my experiences [Developer FullStack .Net at Groupe OCI](Developer FullStack .Net at Groupe OCI)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/thomas-bougeard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thomas-bougeard" height="30" width="40" /></a>
-<a href="https://instagram.com/bgd_thomas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bgd_thomas" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0ea5e9&height=180&section=header&text=Thomas%20Bougeard&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Software%20Engineer%20%C2%B7%20.NET%20%C2%B7%20Python%20%C2%B7%20Fullstack&descAlignY=58&descSize=18" alt="Thomas Bougeard" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/thomas-bougeard"><img src="https://img.shields.io/badge/LinkedIn-thomas--bougeard-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:contact@tensaiit.fr"><img src="https://img.shields.io/badge/Email-contact%40tensaiit.fr-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/Location-Lyon%2C%20France-6366F1?style=flat-square&logo=googlemaps&logoColor=white" alt="Lyon, France" />
+</p>
 
-<h1 align="keft">Some Stats</h1>
+## 👋 About me
 
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=thomasbgrd&show_icons=true&theme=radical)
+Software engineer based near **Lyon, France**, holding an **MSc in Information Systems Architecture** from **EPITECH** (RNCP level 7).
+I build desktop software for scientific instruments and enjoy backend and fullstack work.
+
+- 🔬 Currently a **Python / C# developer** at **RTEC Instruments**, building cross-platform scientific analysis apps
+- 🛠️ Into clean architecture, CI/CD and turning raw data into something readable
+- 🎯 Open to **backend** and **fullstack** opportunities
+
+## 💼 Experience
+
+**Python / C# Developer** · *RTEC Instruments* · Feb 2025 – present
+- Cross-platform scientific analysis applications (Windows / Linux / macOS)
+- CSV data processing, automated Word / PDF report generation
+- Advanced data visualization (heatmaps, histograms, physical unit conversions)
+- Designed a brand-new software licensing system
+
+**WPF .NET Developer** · *RTEC Instruments* · Oct 2022 – Jan 2025
+- Built and maintained WPF software for measurement instruments within an international team
+- Migrated from .NET Framework 4.6 to .NET 6, with refactoring and performance work
+- Set up GitHub Actions CI/CD: build, unit tests, Windows code signing, deployment
+- Key features: demo mode, camera integration (TCP/USB), 3D exports, shared NuGet packages
+
+**Web Developer** · *Groupe OCI* · Sep 2021 – Dec 2021
+- Back-office web API in ASP.NET MVC
+- Full visual redesign of a website and customer area
+
+## 🎓 Education
+
+- **EPITECH — MSc Pro, Information Systems Architect** · Lyon · 2023 – 2025
+- **EPITECH — Programme Grande École** · Lyon · 2020 – 2023
+
+## 🧰 Tech stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,python,cpp,c,nodejs,nextjs,react,tailwind,html,css,mysql,sqlite,git,github,githubactions,linux&perline=9" alt="Tech stack" />
+</p>
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThomasBgrd&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasBgrd&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThomasBgrd/ThomasBgrd/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/ThomasBgrd/ThomasBgrd/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</picture>
