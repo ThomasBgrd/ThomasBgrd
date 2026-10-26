@@ -15,7 +15,6 @@ I build desktop software for scientific instruments and enjoy backend and fullst
 
 - 🔬 Currently a **Python / C# developer** at **RTEC Instruments**, building cross-platform scientific analysis apps
 - 🛠️ Into clean architecture, CI/CD and turning raw data into something readable
-- 🎯 Open to **backend** and **fullstack** opportunities
 
 ## 💼 Experience
 
